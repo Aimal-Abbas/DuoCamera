@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DuoCamera</string>
+    <string name="mode_photo">PHOTO</string>
+    <string name="mode_video">VIDEO</string>
+    <string name="shutter">Shutter</string>
+    <string name="layout_pip">Layout: PiP</string>
+    <string name="layout_top_bottom">Layout: Top / Bottom</string>
+    <string name="layout_side_by_side">Layout: Side by side</string>
+    <string name="swap">Swap</string>
+    <string name="flip">Flip</string>
+    <string name="single_camera_notice">This phone can\'t run both cameras at once. Photos are taken one after the other; videos use one camera (tap Flip while recording to switch).</string>
+    <string name="dual_failed_notice">Dual camera failed on this phone, so it\'s using one camera.</string>
+    <string name="camera_permission_needed">Camera permission is needed to use DuoCamera.</string>
+    <string name="taking_first">Taking the first photo…</string>
+    <string name="taking_second">Switching cameras, hold still…</string>
+    <string name="photo_saved">Saved to Pictures/DuoCamera</string>
+    <string name="video_saved">Saved to Movies/DuoCamera</string>
+    <string name="photo_failed">Couldn\'t take photo: %1$s</string>
+    <string name="video_failed">Recording failed (error %1$d)</string>
+    <string name="camera_failed">Couldn\'t start camera: %1$s</string>
+</resources>
